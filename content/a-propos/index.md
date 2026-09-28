@@ -1,7 +1,7 @@
 ---
 title: 'À propos'
 description: 'Histoire, équipe, horaires et coordonnées de la bibliothèque des Acacias, à Genève.'
----
+--- 
 ## Notre histoire
 
 La bibliothèque des Acacias a ouvert ses portes en 1974 dans une ancienne école de quartier, avec trois mille livres et une seule bibliothécaire. Agrandie en 1998, puis entièrement rénovée en 2019, elle propose aujourd'hui plus de **40 000 documents** sur deux niveaux : un espace jeunesse, une salle de lecture, un espace numérique et un coin presse avec vue sur le parc.
